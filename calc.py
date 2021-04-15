@@ -1,4 +1,4 @@
-print("hello world")
+aList = []
 
 def add(a,b):
     x = a + b
