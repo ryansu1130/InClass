@@ -1,17 +1,17 @@
 aList = []
 
-def add(a,b):
+def addition(a,b):
     x = a + b
-    print(x)
+    print("The answe is:",x)
 
-def sub(a,b):
+def subtract(a,b):
     x = a - b
-    print(x)
+    print("The answe is:",x)
 
-def add(a,b):
+def multiply(a,b):
     x = a * b
-    print(x)
+    print("The answe is:",x)
 
-def add(a,b):
+def divide(a,b):
     x = a / b
-    print(x)
+    print("The answe is:",x)
