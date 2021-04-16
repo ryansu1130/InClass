@@ -1,3 +1,4 @@
+#Author: Ryan Su
 x = int(input("Give me a number:"))
 y = x
 

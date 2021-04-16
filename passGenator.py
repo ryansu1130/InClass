@@ -1,3 +1,4 @@
+#Author: Ryan Su
 import random
 
 x = int(input("Enter a number:"))

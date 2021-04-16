@@ -1,3 +1,4 @@
+#Author: Ryan Su
 import sys
 
 a = int(input("Enter first number: "))
